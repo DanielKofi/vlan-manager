@@ -6,5 +6,5 @@ logs the changes to file
 ![alt text](https://github.com/DanielKofi/vlan-manager/blob/master/screenshot.JPG)
 
 
-#Screen shot of logile 
+Screen shot of logile 
 ![alt text](https://github.com/DanielKofi/vlan-manager/blob/master/logfile.JPG)
