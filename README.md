@@ -1,7 +1,7 @@
 ### vlan-manager
-Traces the port of a connected device  
-Gives a select vlan option  
-logs the changes to file
+- Traces the port of a connected device  
+- Gives a select vlan option  
+- logs the changes to file
 
 ***Program Screenshot***
 
